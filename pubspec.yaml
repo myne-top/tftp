@@ -5,7 +5,7 @@ description: |
 topics:
   - tftp
 version: 1.2.4
-homepage: https://github.com/FourLeafTec/tftp
+homepage: https://github.com/myne-top/tftp
 
 environment:
   sdk: ">=3.3.3 <4.0.0"
